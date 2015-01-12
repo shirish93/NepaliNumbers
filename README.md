@@ -1,7 +1,7 @@
-All Nepali Numbers Ever
+Every Nepali Number
 =======================
 Inspired by [this Twitter account posting Finnish numbers] (https://twitter.com/everyfinnishno), 
-this is a python bot that lists all Nepali numbers.
+this is a python bot that lists every Nepali Number
 
 ##ToDo:
 
