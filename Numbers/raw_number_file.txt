@@ -1,0 +1,132 @@
+2 EK शुन्य 	Zero 	Śun’ya
+१ 	Ek 	1 	एक 	One 	ēka
+२ 	Dui 	2 	दुई 	Two 	du’ī
+३ 	Tin 	3 	तीन 	Three 	tīna
+४ 	Char 	4 	चार 	Four 	cāra
+५ 	Paanch 	5 	पाँच 	Five 	pām̐ca
+६ 	Chha 	6 	छ 	Six 	cha
+७ 	Sat 	7 	सात 	Seven 	sāta
+८ 	Aath 	8 	आठ 	Eight 	āṭha
+९ 	Nau 	9 	नौ 	Nine 	nau
+१० 	Das 	10 	दश 	Ten 	daśa
+११ 	Eghaara 	11 	एघार 	Eleven 	ēghāra
+१२ 	Barha 	12 	बाह्र 	Twelve 	bāhra
+१३ 	Terha 	13 	तेह्र 	Thirteen 	tēhra
+१४ 	Chaudha 	14 	चौध 	Fourteen 	caudha
+१५ 	Pandhra 	15 	पन्ध्र 	Fifteen 	pandhra
+१६ 	Sorha 	16 	सोह्र 	Sixteen 	sōhra
+१७ 	Satra 	17 	सत्र 	Seventeen 	satra
+१८ 	Athara 	18 	अठार 	Eighteen 	aṭhāra
+१९ 	Unnais 	19 	उन्नाइस 	Nineteen 	unnā’isa
+२० 	Bis 	20 	विस 	Twenty 	visa
+२१ 	Ekkais 	21 	एक्काइस 	Twenty One 	ēkkā’isa
+२२ 	Bais 	22 	बाइस 	Twenty Two 	bā’isa
+२३ 	Teis 	23 	तेईस 	Twenty Three 	tē’īsa
+२४ 	Chaubis 	24 	चौविस 	Twenty Four 	cauvisa
+२५ 	Pachhis 	25 	पच्चिस 	Twenty Five 	paccisa
+२६ 	Chhabis 	26 	छब्बिस 	Twenty Six 	chabbisa
+२७ 	Sattais 	27 	सत्ताइस 	Twenty Seven 	sattā’īsa
+२८ 	Atthais 	28 	अठ्ठाईस 	Twenty Eight 	aṭhṭhā’īsa
+२९ 	Unantis 	29 	उनन्तिस 	Twenty Nine 	unantisa
+३० 	Tis 	30 	तिस 	Thirty 	tisa
+३१ 	Ekkattis 	31 	एकत्तिस 	Thirty One 	ēkattisa
+३२ 	Battis 	32 	बत्तिस 	Thirty Two 	battisa
+३३ 	Tettis 	33 	तेत्तिस 	Thirty Three 	tēttisa
+३४ 	Chauntis 	34 	चौँतिस 	Thirty Four 	caum̐tisa
+३५ 	Payintis 	35 	पैँतिस 	Thirty Five 	paim̐tisa
+३६ 	chaatis 	36 	छत्तिस 	thirty-six 	Chattīsa
+३७ 	saitis 	37 	सैँतीस 	thirty seven 	saim̐tīsa
+३८ 	athtis 	38 	अठतीस 	thirty eight 	aṭhatīsa
+३९ 	unnachalis 	39 	उनन्चालीस 	thirty nine 	unancālīsa
+४० 	chalees 	40 	चालीस 	forty 	cālīsa
+४१ 	ekchalees 	41 	एकचालीस 	forty one 	ēkacālīsa
+४२ 	bayalees 	42 	बयालीस 	Forty-two 	bayālīsa
+४३ 	triyalees 	43 	त्रियालीस 	forty three 	triyālīsa
+४४ 	chawaalees 	44 	चवालीस 	forty four 	cavālīsa
+४५ 	paitaalees 	45 	पैँतालीस 	forty five 	paim̐tālīsa
+४६ 	chayaalees 	46 	 छयालीस 	forty six 	 chayālīsa
+४७ 	sacchaalees 	47 	सच्चालीस 	forty seven 	saccālīsa
+४८ 	athchaalees 	48 	अठचालीस 	forty eight 	aṭhacālīsa
+४९ 	unanchas 	49 	उनन्चास 	forty nine 	unancāsa
+५० 	pachas 	50 	पचास 	fifty 	pacāsa
+५१ 	ekaaunna 	51 	एकाउन्न 	fifty one 	ēkā’unna
+५२ 	baaunna 	52 	बाउन्न 	fifty two 	bā’unna
+५३ 	tripanna 	53 	त्रिपन्न 	fifty three 	tripanna
+५४ 	chaunna 	54 	चउन्न 	fifty four 	ca’unna
+५५ 	pachpanna 	55 	पचपन्न 	fifty five 	pacapanna
+५६ 	chapanna 	56 	छपन्न 	fifty six 	chapanna
+५७ 	santaunna 	57 	सन्ताउन्न 	fifty seven 	santā’unna
+५८ 	anthauna 	58 	अन्ठाउन्न 	fifty eight 	anṭhā’unna
+५९ 	unansathee 	59 	उनन्साठी 	fifty nine 	unansāṭhī
+६० 	sathee 	60 	साठी 	sixty 	sāṭhī
+६१ 	eksattee 	61 	एकसट्ठी 	sixty one 	ēkasaṭṭhī
+६२ 	baisathee 	62 	बयसट्ठी 	sixty two 	bayasaṭṭhī
+६३ 	trisathee 	63 	त्रिसट्ठी 	sixty three 	trisaṭṭhī
+६४ 	chausathee 	64 	चौंसट्ठी 	sixty four 	caunsaṭṭhī
+६५ 	paisathee 	65 	पैंसट्ठी 	sixty five 	painsaṭṭhī
+६६ 	chaisathee 	66 	छयसट्ठी 	sixty six 	chayasaṭṭhī
+६७ 	satsathee 	67 	सतसट्ठी 	sixty seven 	satasaṭṭhī
+६८ 	athsathee 	68 	अठसट्ठी 	sixty eight 	aṭhasaṭṭhī
+६९ 	unansattaree 	69 	उनन्सत्तरी 	sixty nine 	unansattarī
+७० 	sattaree 	70 	सत्तरी 	Seventy 	sattarī
+७१ 	ekhattar 	71 	एकहत्तर 	seventy one 	ēkahattara
+७२ 	bhattar 	72 	बहत्तर 	seventy-two 	bahattara
+७३ 	trihattar 	73 	त्रिहत्तर 	seventy three 	trihattara
+७४ 	chauhattar 	74 	चौहत्तर 	seventy-four 	cauhattara
+७५ 	pachahattar 	75 	 पचहत्तर 	Seventy-five 	 pacahattara
+७६ 	chhahattar 	76 	छयहत्तर 	seventy six 	chayahattara
+७७ 	satahattar 	77 	सतहत्तर 	Seventy-Seven 	satahattara
+७८ 	athahattar 	78 	अठहत्तर 	seventy eight 	aṭhahattara
+७९ 	unasee 	79 	उनासी 	seventy-nine 	unāsī
+८० 	asee 	80 	असी 	Eighty 	asī
+८१ 	ekasee 	81 	एकासी 	Eighty one 	ēkāsī
+८२ 	bayasee 	82 	बयासी 	eighty two 	bayāsī
+८३ 	triyasee 	83 	त्रियासी 	Eighty three 	triyāsī
+८४ 	chaurasee 	84 	चौरासी 	Eighty Four 	caurāsī
+८५ 	pachasee 	85 	पचासी 	eighty-five 	pacāsī
+८६ 	chhayasee 	86 	छयासी 	Eighty six 	chayāsī
+८७ 	satasee 	87 	सतासी 	eighty seven 	satāsī
+८८ 	athasee 	88 	अठासी 	Eighty eight 	aṭhāsī
+८९ 	unanabbe 	89 	उनान्नब्बे 	Eighty nine 	unānnabbē
+९० 	nabbe 	90 	नब्बे 	ninety 	nabbē
+९१ 	ekanabbe 	91 	एकान्नब्बे 	ninety one 	ēkānnabbē
+९२ 	bayanabbe 	92 	बयानब्बे 	ninety two 	bayānabbē
+९३ 	kriyanabbe 	93 	 त्रियान्नब्बे 	ninety three 	 triyānnabbē
+९४ 	chauranabbe 	94 	चौरान्नब्बे 	ninety four 	caurānnabbē
+९५ 	paanchanabbe 	95 	पन्चानब्बे 	ninety five 	pancānabbē
+९६ 	chhyanabbe 	96 	छयान्नब्बे 	ninety six 	chayānnabbē
+९७ 	santanabbe 	97 	सन्तान्नब्बे 	ninety seven 	santānnabbē
+९८ 	anthanabbe 	98 	अन्ठान्नब्बे 	ninety eight 	anṭhānnabbē
+९९ 	unansai 	99 	उनान्सय 	ninety nine 	unānsaya
+१०० 	ek saya 	100 	एक सय 	One Hundred 	ek saya
+२०० 	Dui saya 	200 	दुई सय 	Two Hundred 	Du’ī saya
+३०० 	Tin saya 	300 	तीन सय 	Three  Hundred 	tīna saya
+४०० 	Char saya 	400 	चार सय 	Four Hundred 	cāra saya
+५०० 	Paanch saya 	500 	पाँच सय 	Five Hundred 	pām̐ca saya
+६०० 	Chha saya 	600 	छ सय 	Six Hundred 	chha saya
+७०० 	Sat saya 	700 	सात सय 	Seven Hundred 	sāta saya
+८०० 	Aath saya 	800 	आठ सय 	Eight Hundred 	āṭha saya
+९०० 	Nau saya 	900 	नौ सय 	Nine Hundred 	nau saya
+१००० 	Ek Hajaar 	1,000 	एक हजार 	One Thousand 	ēka hajāra
+२००० 	Dui Hajaar 	2,000 	दुई हजार 	Two Thousand 	Du’ī hajāra
+३००० 	Tin Hajaar 	3,000 	तीन हजार 	Three Thousand 	tīna hajāra
+४००० 	Char Hajaar 	4,000 	चार हजार 	Four Thousand 	cāra hajāra
+५००० 	Paanch Hajaar 	5,000 	पाँच हजार 	Five Thousand 	pām̐ca hajāra
+६००० 	Chha Hajaar 	6,000 	छ हजार 	Six Thousand 	cha hajāra
+७००० 	Sat Hajaar 	7,000 	सात हजार 	Seven Thousand 	sāta hajāra
+८००० 	Aath Hajaar 	8,000 	आठ हजार 	Eight Thousand 	āṭha hajāra
+९००० 	Nau Hajaar 	9,000 	नौ हजार 	Nine Thousand 	nau hajāra
+१०००० 	Das Hajaar 	10,000 	दश हजार 	Ten Thousand 	daśa hajāra
+२०००० 	Bis Hajaar 	20,000 	बिस हजार 	Twenty Thousand 	bisa hajāra
+३०००० 	Tis Hajaar 	30,000 	तीस हजार 	Thirty Thousand 	tīsa hajāra
+४०००० 	Chalis Hajaar 	40,000 	 चालिस हजार 	Fourty Thousand 	cālisa hajāra
+५०००० 	Pachas Hajaar 	50,000 	पचास हजार 	Fifty Thousand 	pacāsa hajāra
+६०००० 	sathi Hajaar 	60,000 	साठी हजार 	Sixty Thousand 	sāṭhī hajāra
+७०००० 	Sattari Hajaar 	70,000 	सत्तरी हजार 	Seventy Thousand 	sattarī hajāra
+८०००० 	Asi Hajaar 	80,000 	असी हजार 	Eighty Thousand 	asī hajāra
+९०००० 	Nabbe Hajaar 	90,000 	नब्बे हजार 	Ninty Thousand 	nabbē hajāra
+१००००० 	Ek Lakh 	100,000 	एक लाख 	One Hundred Thousands 	ēka lākha
+१००००० 	Das Lakh 	1,000,000 	दश लाख 	One Million 	Daśa lākha
+१००००००० 	Ek Karod 	10,000,000 	एक करोड 	Ten Million 	Ēka karōḍa
+१००००००००० 	Ek Arba 	1,00,00,00,000 	एक अर्ब 	One Billion 	ēka arba
+१००००००००००० 	Ek Kharba 	1,00,00,00,000 	एक खर्ब
